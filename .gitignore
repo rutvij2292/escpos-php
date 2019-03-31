@@ -2,7 +2,7 @@
 .settings/*
 .project
 .buildpath
-
+/.idea
 # doxygen files
 doc/html
 doc/latex
